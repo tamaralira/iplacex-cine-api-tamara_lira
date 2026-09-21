@@ -1,2 +1,1 @@
-# iplacex-cine-api-tamara_lira
-Repositorio para despliegue proyecto eva 3 programación webservices
+API REST Express para administración de películas favoritas de empleados de IPLACEX
